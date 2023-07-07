@@ -1,0 +1,14 @@
+D:\NGODO\Learn Yourself\C#\book-management\Library\bin\Debug\net6.0\Library.deps.json
+D:\NGODO\Learn Yourself\C#\book-management\Library\bin\Debug\net6.0\Library.runtimeconfig.json
+D:\NGODO\Learn Yourself\C#\book-management\Library\bin\Debug\net6.0\Library.dll
+D:\NGODO\Learn Yourself\C#\book-management\Library\bin\Debug\net6.0\Library.pdb
+D:\NGODO\Learn Yourself\C#\book-management\Library\obj\Debug\net6.0\Library.csproj.AssemblyReference.cache
+D:\NGODO\Learn Yourself\C#\book-management\Library\obj\Debug\net6.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\NGODO\Learn Yourself\C#\book-management\Library\obj\Debug\net6.0\Library.AssemblyInfoInputs.cache
+D:\NGODO\Learn Yourself\C#\book-management\Library\obj\Debug\net6.0\Library.AssemblyInfo.cs
+D:\NGODO\Learn Yourself\C#\book-management\Library\obj\Debug\net6.0\Library.csproj.CoreCompileInputs.cache
+D:\NGODO\Learn Yourself\C#\book-management\Library\obj\Debug\net6.0\Library.dll
+D:\NGODO\Learn Yourself\C#\book-management\Library\obj\Debug\net6.0\refint\Library.dll
+D:\NGODO\Learn Yourself\C#\book-management\Library\obj\Debug\net6.0\Library.pdb
+D:\NGODO\Learn Yourself\C#\book-management\Library\obj\Debug\net6.0\Library.genruntimeconfig.cache
+D:\NGODO\Learn Yourself\C#\book-management\Library\obj\Debug\net6.0\ref\Library.dll
